@@ -1,0 +1,20 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "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"
+    },
+    {
+        "model": "RBIgpt4",
+        "api_key": "e47f2830786346e69b7a341b613d3325",
+        "base_url": "https://fttopenaipoc.openai.azure.com/",
+        "api_type": "azure",
+        "api_version": "2023-07-01-preview"
+    },
+    {
+        "model": "text-davinci-003",
+        "api_key": "e47f2830786346e69b7a341b613d3325",
+        "base_url": "https://fttopenaipoc.openai.azure.com/",
+        "api_type": "azure",
+        "api_version": "2023-07-01-preview"
+    }
+]
